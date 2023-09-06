@@ -1,7 +1,7 @@
 import './header.css';
 
-import logo from '../../assects/logo.svg';
-import phone from '../../assects/phone.svg';
+import logo from '../../Assects/logo.svg';
+import phone from '../../Assects/phone.svg';
 import Image from 'next/image';
 import line from '../../Assects/line.svg'
     ;
