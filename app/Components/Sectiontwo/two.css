@@ -1,0 +1,35 @@
+.whyus {
+    color: #624DE7;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+}
+.wehave {
+    color: #29282B;
+    font-size: 28px;
+    font-style: normal;
+    word-spacing: 7px;
+    font-weight: 600;
+    line-height: 1.1cm;
+    margin-top: 5px;
+}
+.p-quis {
+    color: #575757;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.dedicated {
+    color: #29282B;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+.lap-img-1 {
+    width: 180px;
+    padding-right: 25px;
+
+}
+.lap-img-2 {
+    width: 250px;
+}

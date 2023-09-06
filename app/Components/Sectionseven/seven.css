@@ -1,0 +1,95 @@
+.color-brown {
+    color: #624DE7;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+.experts {
+    color: #29282B;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 60px;
+
+}
+
+.para-leo {
+    color: #575757;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+@media (max-width: 768px) {
+    .experts {
+        color: #29282B;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 40px;
+
+    }
+
+}
+
+.input-one {
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.inputs-set {
+    width: 500px;
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .inputs-set {
+        width: 350px;
+        border: none;
+    }
+
+    .input-one {
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+}
+.nunc {
+    font-size: 12px;
+    position: absolute;
+    bottom: 4px;
+    left: 10px;
+    font-weight: 800;
+}
+.nisl {
+    color: #575757;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.background-color-section-seven {
+    background-color: #FCF8FF;
+    ;
+}
+
+.teer-one-img {
+    position: absolute;
+    right: 20px;
+    top: 18px;
+}
+
+.our-certified-expert {
+    color: #29282B;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+.quie-eleifed {
+    color: #575757;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+

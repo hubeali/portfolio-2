@@ -1,0 +1,79 @@
+/* div-upon-footer */
+.bg-top-footer-color {
+    background: #624DE7;
+    padding: 70px 0 60px 0;
+}
+.btn-start-project {
+    background: #624DE7;
+    border: solid white 1px;
+    color: white;
+    margin-left: 100px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+}
+@media (max-width: 768px) {
+    .btn-start-project {
+        margin: 4px;
+        padding-left: 10px;
+        font-size: 10px;
+    }
+
+    .Service {
+        font-size: 12px;
+    }
+}
+/* footer */
+.bgfooter {
+    background-image: url(../../Assects/bgfooter.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.Birmingham {
+    font-size: 12px;
+}
+.hr-1 {
+    background: #9483FF;
+    width: 1140px;
+    height: 3px;
+}
+.footer-p {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+}
+.icon-group {
+    gap: 20px;
+
+}
+.button-icon {
+    position: absolute;
+    right: 260px;
+    margin-top: 14px;
+}
+
+.input-footer {
+    border: none;
+
+}
+.footer-span {
+    font-size: 16px;
+}
+
+.text-group-span {
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+
+    .footer-span {
+        font-size: 18px;
+    }
+
+    .button-icon {
+        position: absolute;
+        right: 170px;
+        margin-top: 14px;
+    }
+
+}

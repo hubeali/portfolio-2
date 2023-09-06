@@ -1,0 +1,56 @@
+.project-p {
+    color: #624DE7;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.bgsec {
+    margin-top: -150px;
+
+}
+@media (max-width: 768px) {
+    
+    .bgsec {
+        margin-top: 800px; 
+        position: absolute;
+        width: 280px;
+    }
+}
+.turpis {
+    color: #575757;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.amazing {
+    color: #29282B;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+@media (max-width: 768px) {
+
+    .amazing {
+        color: #29282B;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+}
+
+
+.project{
+    color: #624DE7;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+border: 1px solid #624DE7;
+background: rgba(9, 46, 67, 0.00);
+}
+.hr-bdr{
+    background: #F5F1FF;
+border: solid 1px;
+margin-top: 40px;
+}

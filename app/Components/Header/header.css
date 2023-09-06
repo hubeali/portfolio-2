@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background-nav {
+    background-image: url(../../Assects/bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 100px;
+}
+
+.phone-1 {
+    position: relative;
+    right: 25px;
+}
+
+.number {
+
+    position: relative;
+    right: 20px;
+    font-size: 14px;
+}
+
+.hotline {
+    margin-right: 120px;
+    font-size: 12px;
+
+}
+ul {
+    gap: 50px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.a {
+    position: relative;
+    bottom: 100px;
+}
+
+.a {
+    position: relative;
+    right: 200px;
+}
+
+.quality {
+    margin-top: 80px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.quis {
+    margin-bottom: 50px;
+    font-size: 11px;
+
+}
+.tex {
+    color: black;
+    position: relative;
+    margin-left: 275px;
+    margin-top: 50px;
+}
+.req {
+
+    position: relative;
+    left: 300px;
+    top: 14px;
+}
+
+.friendsimg {
+    margin-top: 30px;
+    width: 330px;
+}
+
+@media (max-width: 768px) {
+    .friendsimg {
+        margin-top: 480px;
+        width: 130px;
+    }
+}
+
+.starsimg {
+    width: 120px;
+}
+
+.arrowimg {
+    position: relative;
+    right: 250px;
+    bottom: -70px;
+    width: 160px;
+}
+
+.business {
+    font-size: 14px;
+    margin-left: 80px;
+}
+
+.lii {
+    position: absolute;
+    right: 190px;
+    margin: 25px;
+
+}
+
+.group-li-business {
+    position: relative;
+    bottom: 50px;
+}
+.group-img {
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.main-div {
+    margin-right: 30px;
+    margin-top: 70px;
+}
+
+.line {
+    top: 7px;
+    left: 270px;
+    height: 32px;
+    position: absolute;
+}
+.texture {
+
+    font-weight: 700;
+    top: 15px;
+    right: 170px;
+    font-size: 12px;
+    position: absolute;
+}
+@media (max-width: 768px) {
+
+    .main-text {
+        position: relative;
+        right: 30px;
+    }
+
+    .group-img {
+        margin-top: 60px;
+        margin-left: 100px;
+        gap: 20px;
+        width: 400px;
+        position: relative;
+        right: 130px;
+    }
+
+    .first-img {
+        width: 100px;
+        position: relative;
+        bottom: 11px;
+        right: 20px;
+    }
+
+    .texture {
+        right: 10px;
+        top: 14px;
+        font-size: 10px;
+    }
+
+    .mx-5 {
+        margin: 0 10px;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+
+    .search-1 {
+        position: relative;
+        margin-right: 10px;
+        width: 420px;
+
+    }
+    .search-items {
+        right: 30px;
+    }
+    .lii {
+        position: relative;
+        left: -20px;
+        bottom: 20px;
+    }
+}
