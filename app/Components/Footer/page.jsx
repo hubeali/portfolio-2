@@ -96,7 +96,9 @@ const Footer = () => {
               </div>
             </div>
           </div>
+          <div className="container">
           <hr className='hr-1' />
+          </div>
         </div>
 
         <div className='container'>
